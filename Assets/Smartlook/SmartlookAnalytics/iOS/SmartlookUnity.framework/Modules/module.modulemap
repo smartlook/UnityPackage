@@ -1,0 +1,6 @@
+framework module SmartlookUnity {
+  umbrella header "Smartlook.h"
+
+  export *
+  module * { export * }
+}
