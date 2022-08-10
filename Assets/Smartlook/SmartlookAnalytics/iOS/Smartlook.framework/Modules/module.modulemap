@@ -1,0 +1,8 @@
+//
+//  Smartlook SDK, © 2022 Smartlook.com
+//
+
+framework module Smartlook {
+  umbrella header "Smartlook.h"
+  requires objc
+}

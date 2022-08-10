@@ -10,7 +10,7 @@ namespace SmartlookUnity
     [SL_COMPATIBILITY_NAME("name=IntegrationListener;type=callback;members=onSessionReady,onVisitorReady")]
     public abstract class IntegrationListener : AndroidJavaProxy
     {
-        public IntegrationListener() : base("com.smartlook.sdk.smartlook.IntegrationListener") { }
+        public IntegrationListener() : base("com.smartlook.sdk.smartlook.integration.IntegrationListener") { }
 
         public abstract void onSessionReady(string dashboardSessionUrl);
         public abstract void onVisitorReady(string dashboardVisitorUrl);
