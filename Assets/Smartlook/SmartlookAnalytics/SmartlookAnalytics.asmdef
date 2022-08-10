@@ -2,10 +2,7 @@
     "name": "SmartlookAnalytics",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [
-        "Android",
-        "iOS"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
