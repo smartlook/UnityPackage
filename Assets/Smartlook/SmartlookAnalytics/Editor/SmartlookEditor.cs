@@ -10,7 +10,7 @@ namespace SmartlookUnity.Editor
 {
     public partial class SmartlookEditor
     {
-        private const string FRAMEWORK_TARGET_PATH = "Frameworks/Smartlook/iOS"; // relative to build folder
+        private const string FRAMEWORK_TARGET_PATH = "Frameworks/Smartlook/SmartlookAnalytics/iOS"; // relative to build folder
         private const string FRAMEWORK_NAME = "Smartlook.framework";
 
         [PostProcessBuild(500)]
