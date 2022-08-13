@@ -2,4 +2,7 @@
   <androidPackages>
     <androidPackage spec="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10" />
   </androidPackages>
+  <iosPods>
+    <iosPod name="Smartlook" version="~> 1.9.1" />
+  </iosPods>
 </dependencies>
