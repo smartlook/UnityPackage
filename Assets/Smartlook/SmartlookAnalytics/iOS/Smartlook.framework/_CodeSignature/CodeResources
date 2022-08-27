@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		HRkCEZPopjYen7QWzsUrrCO0ilU=
+		</data>
 		<key>Headers/Smartlook.h</key>
 		<data>
 		r6XbMWNSwbkrvOa8bJSdW8HKNIk=
@@ -14,39 +18,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Da6NojQwOABcPb1iIOUot8OmE6E=
+		5K0xy7OR0xWPgKoAvJ+JaBUaE/I=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		bHRjKSxZUl4hzWwvEF/821jHzaM=
+		Zz3A7YL5iu5swsoP6f9qkxEdIJc=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		2WQjoeZNpapft+29reR7ZbBwD7w=
+		ntT1g7KJxDr/ghrriwdWKAsey7E=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		QsN8RKEXehoPmVfIwJZMxP9cROk=
+		sscLtAQhiy8/76Cno5avJ5U7VAA=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		AjoWNIlx8Ezrd4QF2AbVlNTTMkU=
+		vzwvBCjZS/w/kE8luvlQ8Mk1kuE=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		heX81LF6kVMLTW4es6gC1m/zKe0=
+		oKIwFSFmDbFdkOzff8VV7dXtIp4=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		atihEC0IRJLKUB9TF6cSWBmALXc=
+		P/NU8TBFILkBPoJzVXpWZweNRAc=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		7SdJGZVpBufK0A4SR1PgSG/pNuM=
+		3E+oHnq6ZtLLpMw5b39UGib2HSs=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		5qvlZkxHxfw2n+cp8KLBsPaBY74=
+		BKphabvJOAMHvuMxk/rDvlL3uMY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,88 +85,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bHRjKSxZUl4hzWwvEF/821jHzaM=
+			Zz3A7YL5iu5swsoP6f9qkxEdIJc=
 			</data>
 			<key>hash2</key>
 			<data>
-			tdDAcOEOYug/tEKtXA/RI7GSy01W7QQ78IBW8w1NRMs=
+			dPZC/KK5sFop3u2h4PIfvk5Y7HRu/vHXgJxCt2lXbjo=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2WQjoeZNpapft+29reR7ZbBwD7w=
+			ntT1g7KJxDr/ghrriwdWKAsey7E=
 			</data>
 			<key>hash2</key>
 			<data>
-			F7ZHzC+zmUFEEw2c5h2d+VgsAzSYN7cc9FYDm661Lw4=
+			QMZ/jG5VUL81euDNK4KH5Woq9BtTcemyV3EsL/BR2Ug=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QsN8RKEXehoPmVfIwJZMxP9cROk=
+			sscLtAQhiy8/76Cno5avJ5U7VAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			bfcGNhk5knYo7any4Ka8cz3tats0O95CHecs0bveRGM=
+			9tmncEwsEimfNP/+XnHBZ0EYHja1k3+s72HovfNgoFE=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AjoWNIlx8Ezrd4QF2AbVlNTTMkU=
+			vzwvBCjZS/w/kE8luvlQ8Mk1kuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			3a69AFOXw4j931k/JWrzcmvz9fa/ZX+NaKXJ4zDY3OI=
+			nMkbLW1kx+pDAPezywN3KQH52XcOxdzv2Dir9PZejTA=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			heX81LF6kVMLTW4es6gC1m/zKe0=
+			oKIwFSFmDbFdkOzff8VV7dXtIp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/re8be8o5CRjdLMpJJVM7HxYU6MFEXKueC7YWhVuHcQ=
+			QfLy1oHCBloY+BKvCNssdimcGlzWV+ivhxdJIczITyg=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			atihEC0IRJLKUB9TF6cSWBmALXc=
+			P/NU8TBFILkBPoJzVXpWZweNRAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			qYYoivRguY+R6Bt0BvEyRPm6KaY/Ck9vAyNrThbS3Cw=
+			jIgjWaz53e6nOJzWij8tm3X5kkRmsD/TT0L/vADZ6uw=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7SdJGZVpBufK0A4SR1PgSG/pNuM=
+			3E+oHnq6ZtLLpMw5b39UGib2HSs=
 			</data>
 			<key>hash2</key>
 			<data>
-			JWQof45LiYabie6zAl8/m0hedUx6M/MLI9IuSTACawc=
+			mCH57AxU/c2X2D1KvaQ9IzH+Fem+T94Yc1v9W/+be7c=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5qvlZkxHxfw2n+cp8KLBsPaBY74=
+			BKphabvJOAMHvuMxk/rDvlL3uMY=
 			</data>
 			<key>hash2</key>
 			<data>
-			eHrlfCMjIyNnorUk+0zkRK1kshk8syXGoIyxuRGjaME=
+			nguEdqJhBaHG2a0xeD6oCA3gr34uJjruK3Sm/GYmeVI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
