@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		HRkCEZPopjYen7QWzsUrrCO0ilU=
-		</data>
 		<key>Headers/Smartlook.h</key>
 		<data>
 		r6XbMWNSwbkrvOa8bJSdW8HKNIk=
@@ -20,14 +16,6 @@
 		<data>
 		5K0xy7OR0xWPgKoAvJ+JaBUaE/I=
 		</data>
-		<key>Modules/Smartlook.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		Zz3A7YL5iu5swsoP6f9qkxEdIJc=
-		</data>
-		<key>Modules/Smartlook.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<data>
-		ntT1g7KJxDr/ghrriwdWKAsey7E=
-		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
 		sscLtAQhiy8/76Cno5avJ5U7VAA=
@@ -38,7 +26,7 @@
 		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		oKIwFSFmDbFdkOzff8VV7dXtIp4=
+		0/BafHdO1SP3NW4pSkZ/E/aTHHE=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -50,7 +38,7 @@
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		BKphabvJOAMHvuMxk/rDvlL3uMY=
+		bDuSRQJG+SOszvsTNtklq4fzOAc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,28 +69,6 @@
 			rXSW4HVLqrc1HwUr/3J/QkUgk0PRfDNQaXtV4SFqmuk=
 			</data>
 		</dict>
-		<key>Modules/Smartlook.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Zz3A7YL5iu5swsoP6f9qkxEdIJc=
-			</data>
-			<key>hash2</key>
-			<data>
-			dPZC/KK5sFop3u2h4PIfvk5Y7HRu/vHXgJxCt2lXbjo=
-			</data>
-		</dict>
-		<key>Modules/Smartlook.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ntT1g7KJxDr/ghrriwdWKAsey7E=
-			</data>
-			<key>hash2</key>
-			<data>
-			QMZ/jG5VUL81euDNK4KH5Woq9BtTcemyV3EsL/BR2Ug=
-			</data>
-		</dict>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
@@ -129,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oKIwFSFmDbFdkOzff8VV7dXtIp4=
+			0/BafHdO1SP3NW4pSkZ/E/aTHHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			QfLy1oHCBloY+BKvCNssdimcGlzWV+ivhxdJIczITyg=
+			78YxRN/cJWlzrz27Eow5k9viRQZKNrb5RF8PcvCAvWs=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -162,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BKphabvJOAMHvuMxk/rDvlL3uMY=
+			bDuSRQJG+SOszvsTNtklq4fzOAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			nguEdqJhBaHG2a0xeD6oCA3gr34uJjruK3Sm/GYmeVI=
+			ARc3F/cBf2PVgfvTBoBoHb8IL7/O1dtGqbNIRFeDMeI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
