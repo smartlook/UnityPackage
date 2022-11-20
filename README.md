@@ -5,13 +5,13 @@ This package allows you to use Smartlook Analytics in your Unity projects.
 ## Features
 
 * Session recording
-* Tracking events
+* Event tracking
 
 ## Start guide
 
 ### 1. Install Smartlook package
 
-This package can be installed with the Unity Package Manager.
+This package can be installed with the Unity Package Manager using Git url.
 
 ### 2. Initialize Smartlook
 
@@ -24,11 +24,15 @@ SmartlookUnity.SetupOptionsBuilder builder = new SmartlookUnity.SetupOptionsBuil
 SmartlookUnity.Smartlook.SetupAndStartRecording(builder.Build());
 ```
 
-Track events:
+### 3. Track events:
 
 ```csharp
 SmartlookUnity.Smartlook.TrackCustomEvent("EVENT-NAME");
 ```
+
+## Docs
+
+You can have a look at the full API list in the [Smartlook.cs](Assets/Smartlook/SmartlookAnalytics/Scripts/Smartlook.cs), or in our [Online docs](https://mobile.developer.smartlook.com/v1.0/reference/unity-sdk-installation).
 
 ## How to build UnityPackage
 
