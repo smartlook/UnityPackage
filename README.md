@@ -11,9 +11,8 @@ This package allows you to use Smartlook Analytics in your Unity projects.
 
 ### 1. Install Smartlook package
 
-Download the most recent package from releases: Smartlook.unitypackage
-This package can be installed via Unity menu: Assets->Import Package->Custom Package.
-Or just double click it and import it into your project.
+* Download the most recent package from releases: Smartlook.unitypackage
+* This package can be installed via Unity menu: Assets->Import Package->Custom Package. Or just double click it and import it into your project.
 
 ### 2. Initialize Smartlook
 
