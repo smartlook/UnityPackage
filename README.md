@@ -4,15 +4,16 @@ This package allows you to use Smartlook Analytics in your Unity projects.
 
 ## Features
 
-* Session recording
+* Session recordings
 * Event tracking
+* Funnels
 
 ## Start guide
 
-### 1. Install Smartlook package
+### 1. Install Smartlook Unity package
 
-* Download the most recent package from releases: Smartlook.unitypackage
-* This package can be installed via Unity menu: Assets->Import Package->Custom Package. Or just double click it and import it into your project.
+* Download the most recent package from [Releases](https://github.com/smartlook/UnityPackage/releases).
+* Install the package in Unity: Assets -> Import Package -> Custom Package. Or just double click the package and import it into your project.
 
 ### 2. Initialize Smartlook
 
