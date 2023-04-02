@@ -63,3 +63,7 @@ crashlytics-build.properties
 
 # DS_Store
 .DS_Store
+/Assets/ExternalDependencyManager.meta
+/Assets/ExternalDependencyManager
+/Assets/Plugins.meta
+/Assets/Plugins

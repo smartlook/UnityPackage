@@ -1,7 +1,9 @@
 {
     "name": "Smartlook.Editor",
-    "rootNamespace": "",
-    "references": [],
+    "rootNamespace": "SmartlookUnity",
+    "references": [
+        "GUID:52537e7b5c9a4f64e9d1ef8878c041c3"
+    ],
     "includePlatforms": [
         "Editor"
     ],
