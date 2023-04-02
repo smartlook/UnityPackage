@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a037d972e344070808470b09a6f9228, type: 3}
   m_Name: SmartlookSettings
   m_EditorClassIdentifier: 
-  Key: 
+  ApiKey: 
+  FPS: 10

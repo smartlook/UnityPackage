@@ -13,6 +13,10 @@ namespace SmartlookUnity
         private void Awake()
         {
             var settings = Settings.Instance;
+            if (string.IsNullOrEmpty(settings.ApiKey))
+            {
+                Debug.LogError("Smartlook: API Key is missing. Open menu \"Smartlook/Edit Settings\" and provide correct API Key.");
+            }
             Smartlook.SetupAndStartRecording(new SetupOptions(settings.ApiKey, settings.FPS, StartNewSession, StartNewSessionAndUser));
         }
     }

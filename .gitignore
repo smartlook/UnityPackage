@@ -67,3 +67,5 @@ crashlytics-build.properties
 /Assets/ExternalDependencyManager
 /Assets/Plugins.meta
 /Assets/Plugins
+/Assets/PlayServicesResolver.meta
+/Assets/PlayServicesResolver
