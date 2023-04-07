@@ -15,10 +15,14 @@ namespace SmartlookUnity
         public abstract void onSessionReady(string dashboardSessionUrl);
         public abstract void onVisitorReady(string dashboardVisitorUrl);
     }
-#endif
-
-#if UNITY_IOS
+#elif UNITY_IOS
     /// Extended class can be passed to RegisterIntegrationListener method
+    public abstract class IntegrationListener
+    {
+        public abstract void onSessionReady(string dashboardSessionUrl);
+        public abstract void onVisitorReady(string dashboardVisitorUrl);
+    }
+#else
     public abstract class IntegrationListener
     {
         public abstract void onSessionReady(string dashboardSessionUrl);
