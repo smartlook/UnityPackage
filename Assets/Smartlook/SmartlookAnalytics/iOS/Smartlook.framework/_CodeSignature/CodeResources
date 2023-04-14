@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		w45SFWFmaEm1gmig/Viw1yRR+Nw=
+		9OZqovbc+6rfgDzA8pp4A2V1O68=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Smartlook.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		OFmkPZSbk6Csrl8hZ1aApRxbIPM=
+		0/BafHdO1SP3NW4pSkZ/E/aTHHE=
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		iqNkOxcNLrz+gDPKZWSp2NXCHng=
+		bDuSRQJG+SOszvsTNtklq4fzOAc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OFmkPZSbk6Csrl8hZ1aApRxbIPM=
+			0/BafHdO1SP3NW4pSkZ/E/aTHHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			acu+fOFJIHSUZi9QdUgYhqOT2RIF7qQB7fsfjtDT8SI=
+			78YxRN/cJWlzrz27Eow5k9viRQZKNrb5RF8PcvCAvWs=
 			</data>
 		</dict>
 		<key>Modules/Smartlook.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iqNkOxcNLrz+gDPKZWSp2NXCHng=
+			bDuSRQJG+SOszvsTNtklq4fzOAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JhldhF+OFnieCCJCQuytSZABkEk4g7Qms2iUApshTxE=
+			ARc3F/cBf2PVgfvTBoBoHb8IL7/O1dtGqbNIRFeDMeI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
