@@ -7,10 +7,10 @@ namespace SmartlookUnity
         public const string SettingsResourceName = "SmartlookSettings";
         
         [SerializeField]
-        public string ApiKey;
+        public string ProjectKey;
         [SerializeField]
-        [Range(1, 120)]
-        public int FPS = 10;
+        [Range(1, 30)]
+        public int FPS = 2;
 
         private static Settings _instance;
         public static Settings Instance => _instance ??= LoadSettings();
