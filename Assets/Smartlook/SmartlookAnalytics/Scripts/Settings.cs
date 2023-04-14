@@ -1,13 +1,10 @@
-﻿using UnityEditor;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace SmartlookUnity
 {
-    public class Settings: ScriptableObject
+    public class Settings : ScriptableObject
     {
-        private const string SettingsResourceName = "SmartlookSettings";
-        private const string SettingsResourceSuffix = ".asset";
-        private const string SettingsResourceFolder = "Assets/Smartlook/SmartlookAnalytics/Resources/";
+        public const string SettingsResourceName = "SmartlookSettings";
         
         [SerializeField]
         public string ApiKey;
@@ -15,20 +12,12 @@ namespace SmartlookUnity
         [Range(1, 120)]
         public int FPS = 10;
 
-        public static Settings Instance => GetInstance();
+        private static Settings _instance;
+        public static Settings Instance => _instance ??= LoadSettings();
 
-        private static Settings GetInstance()
+        public static Settings LoadSettings()
         {
-            var setting = Resources.Load(SettingsResourceName) as Settings;
-            if (setting != null) 
-                return setting;
-            
-            setting = CreateInstance<Settings>();
-            AssetDatabase.CreateAsset(setting, SettingsResourceFolder + SettingsResourceName + SettingsResourceSuffix);
-            AssetDatabase.SaveAssets();
-            AssetDatabase.Refresh();
-            EditorUtility.FocusProjectWindow();
-            return setting;
+            return Resources.Load(SettingsResourceName) as Settings;
         }
     }
 }

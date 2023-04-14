@@ -3,12 +3,25 @@ using UnityEngine;
 
 namespace SmartlookUnity.Editor
 {
-    public class EditorSettings
+    public static class EditorSettings
     {
+        private const string SettingsResourceSuffix = ".asset";
+        private const string SettingsResourceFolder = "Assets/Smartlook/SmartlookAnalytics/Resources/";
+        
         [MenuItem("Smartlook/Edit Settings")]
         public static void EditSettings()
         {
-            Selection.activeObject = Settings.Instance;
+            var setting = Settings.LoadSettings();
+            if (setting == null)
+            {
+                setting = ScriptableObject.CreateInstance<Settings>();
+                AssetDatabase.CreateAsset(setting, SettingsResourceFolder + Settings.SettingsResourceName + SettingsResourceSuffix);
+                AssetDatabase.SaveAssets();
+                AssetDatabase.Refresh();
+                EditorUtility.FocusProjectWindow();
+            } 
+            
+            Selection.activeObject = setting;
         }
 
         [MenuItem("GameObject/Smartlook/Initializer", false, 10)]
