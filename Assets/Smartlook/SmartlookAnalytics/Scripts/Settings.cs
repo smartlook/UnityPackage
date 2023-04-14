@@ -7,8 +7,10 @@ namespace SmartlookUnity
         public const string SettingsResourceName = "SmartlookSettings";
         
         [SerializeField]
+        [Tooltip("Project Key")]
         public string ProjectKey;
         [SerializeField]
+        [Tooltip("Frames per second")]
         [Range(1, 30)]
         public int FPS = 2;
 

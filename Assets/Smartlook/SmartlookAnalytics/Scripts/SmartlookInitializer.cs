@@ -6,9 +6,9 @@ namespace SmartlookUnity
     public class SmartlookInitializer : MonoBehaviour
     {
         [Tooltip("Reset Session")]
-        public bool StartNewSession;
+        public bool ResetSession;
         [Tooltip("Reset User")]
-        public bool StartNewSessionAndUser;
+        public bool ResetUser;
         
         private void Awake()
         {
@@ -23,7 +23,7 @@ namespace SmartlookUnity
                 Debug.LogError("Smartlook: Project Key is missing. Open menu \"Smartlook/Edit Settings\" and provide correct Project Key.");
                 return;
             }
-            Smartlook.SetupAndStartRecording(new SetupOptions(settings.ProjectKey, settings.FPS, StartNewSession, StartNewSessionAndUser));
+            Smartlook.SetupAndStartRecording(new SetupOptions(settings.ProjectKey, settings.FPS, ResetSession, ResetUser));
         }
     }
 }
