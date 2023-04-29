@@ -164,11 +164,11 @@ namespace SmartlookUnity {
         }
 
         [DllImport("__Internal")]
-        static extern string SmartlookGetDashboardSessionUrl(bool withTimestamp);
+        static extern string SmartlookGetDashboardSessionUrl();
 
-        public static string GetDashboardSessionUrlInternalIOS(bool withTimestamp) {
+        public static string GetDashboardSessionUrlInternalIOS() {
             if (Application.platform == RuntimePlatform.IPhonePlayer) {
-                return SmartlookGetDashboardSessionUrl(withTimestamp);
+                return SmartlookGetDashboardSessionUrl();
             }
 
             return null;
