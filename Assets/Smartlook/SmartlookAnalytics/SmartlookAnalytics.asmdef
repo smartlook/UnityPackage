@@ -1,6 +1,6 @@
 {
     "name": "SmartlookAnalytics",
-    "rootNamespace": "",
+    "rootNamespace": "SmartlookUnity",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

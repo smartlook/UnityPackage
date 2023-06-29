@@ -395,7 +395,7 @@ namespace SmartlookUnity
 
 #if UNITY_IOS
             if (Application.platform == RuntimePlatform.IPhonePlayer) {
-                return GetDashboardSessionUrlInternalIOS();
+                return GetDashboardSessionUrlInternalIOS(withCurrentTimestamp);
             }
 #endif
             return "";
