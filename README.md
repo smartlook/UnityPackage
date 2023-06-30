@@ -37,6 +37,11 @@ SmartlookUnity.Smartlook.TrackCustomEvent("EVENT-NAME");
 You can have a look at the full API list in the [Smartlook.cs](Assets/Smartlook/SmartlookAnalytics/Scripts/Smartlook.cs), or in our [Online docs](https://mobile.developer.smartlook.com/v1.0/reference/unity-sdk-installation).
 
 ## How to build UnityPackage
+### Command Line
 
  Run following command from command line (from this folder)
 '"C:\Program Files\Unity\Hub\Editor\2021.2.13f1\Editor\Unity.exe" -gvh_disable -batchmode -importPackage external-dependency-manager-1.2.172.unitypackage -exportPackage Assets SmartLook.unitypackage -quit'
+### Unity Editor
+Right click on Smartlook folder in Project Window and select "Export Package ..."
+Select "Smartlook" folder and "ExternalDependencyManager" folder
+Click "Export"
